@@ -1,0 +1,4 @@
+for _, i in pairs(Workspace:GetChildren()) do
+    print(i.Name)
+    print("hi")
+end
